@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 95%);
+    max-width: 1440px;
+}
+
+.sedan-div {
+    position: absolute;
+    border-radius:5px 0 0 5px ;
+    margin-top: 15%;
+    margin-left: 20%;
+    height: 450px;
+    width: 20%;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.sedan-content {
+    margin: 50px auto;
+    width: 70%;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.sedan-content h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+.sedan-content a {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    padding: 15px 30px;
+    border-radius: 30px;
+
+}
+
+.sedan-content a:hover {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    color: hsl(0, 0%, 95%);
+    background-color: hsl(31, 77%, 52%);
+    padding: 15px 30px;
+    border: 2px solid;
+    border-radius: 30px;
+}
+
+.suv-div {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+    height: 450px;
+    width: 20%;
+    background-color: hsl(184, 100%, 22%);
+}
+
+
+.suv-content {
+    margin: 50px auto;
+    width: 70%;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.suv-content h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+.suv-content a {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+    padding: 15px 30px;
+    border-radius: 30px;
+
+}
+
+.suv-content a:hover {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    color: hsl(0, 0%, 95%);
+    background-color:  hsl(184, 100%, 22%);
+    padding: 15px 30px;
+    border: 2px solid;
+    border-radius: 30px;
+}
+
+
+.luxury-div {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 60%;
+    border-radius:0 5px 5px 0;
+    height: 450px;
+    width: 20%;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.luxury-content {
+    margin: 50px auto;
+    width: 70%;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.luxury-content h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+}
+
+.luxury-content a {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+    padding: 15px 30px;
+    border-radius: 30px;
+
+}
+
+.luxury-content a:hover {
+    position: relative;
+    top: 90px;
+    text-decoration: none;
+    color: hsl(0, 0%, 95%);
+    background-color:  hsl(179, 100%, 13%);
+    padding: 15px 30px;
+    border: 2px solid;
+    border-radius: 30px;
+}
